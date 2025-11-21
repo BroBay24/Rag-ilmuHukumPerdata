@@ -40,11 +40,11 @@
         1728,
         224
       ],
-      "id": "aac14e73-d45c-460b-837f-c792d905f742",
+      "id": "ganti dengan key mu",
       "name": "Reranker Cohere",
       "credentials": {
         "cohereApi": {
-          "id": "sGL1GRMpYGCq8Hij",
+          "id": "ganti dengan key mu",
           "name": "CohereApi account"
         }
       }
@@ -123,12 +123,12 @@
         1920,
         -384
       ],
-      "id": "16b0feef-42d1-4d4a-911d-7326a678bb36",
+      "id": "ganti dengan key mu",
       "name": "Output",
-      "webhookId": "b6d3fd3e-6096-4fa3-b52f-75bcfe3384b2",
+      "webhookId": "ganti dengan key mu",
       "credentials": {
         "telegramApi": {
-          "id": "M9vHpQ4OnIy2UTxu",
+          "id": "ganti dengan key mu",
           "name": "Telegram account"
         }
       }
@@ -146,9 +146,9 @@
         1296,
         -384
       ],
-      "id": "d09cec47-7ba1-4f10-90df-4d6609c1b364",
+      "id": "ganti dengan key mu",
       "name": "Input Trigger",
-      "webhookId": "3faeb40e-2f4a-491f-ba31-f55b8bb6464c",
+      "webhookId": "ganti dengan key mu",
       "credentials": {
         "telegramApi": {
           "id": "M9vHpQ4OnIy2UTxu",
@@ -239,11 +239,11 @@
         1680,
         80
       ],
-      "id": "8b578b28-3933-4402-8fef-f8b338b9cfc3",
+      "id": "ganti dengan key mu",
       "name": "Vector Db1",
       "credentials": {
         "pineconeApi": {
-          "id": "JL0T5YrjinKWrX7u",
+          "id": "ganti dengan key mu",
           "name": "PineconeApi account"
         }
       }
@@ -265,11 +265,11 @@
         832,
         -368
       ],
-      "id": "9cb2cef1-5ec5-4018-b8ab-c04a60deeeed",
+      "id": "ganti dengan key mu",
       "name": "Vector Db",
       "credentials": {
         "pineconeApi": {
-          "id": "JL0T5YrjinKWrX7u",
+          "id": "ganti dengan key mu",
           "name": "PineconeApi account"
         }
       }
@@ -411,7 +411,7 @@
   "settings": {
     "executionOrder": "v1"
   },
-  "versionId": "eb80e8f3-f850-4e60-9f34-5a07068adf6a",
+  "versionId": "ganti dengan key mu",
   "meta": {
     "templateCredsSetupCompleted": true,
     "instanceId": "97cdaab89af73ebd5970b4d23e9d1859d7eb3b935c78db3eb6127ddba5b4902d"
