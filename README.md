@@ -12,7 +12,7 @@ Struktur direktori :
 - `sumber/` — jdih Mahkamah Agung repo, Peraturango repo dan BpkRi repo
 
 ## Cara menggunakan
-1. Lihat materi langsung di Telegram: buka bot `@pakbos` lalu tanyai tentang hukum perdata
+1. akses langsung di Telegram: buka bot `@pakbos` lalu tanyai tentang hukum perdata
 2. Untuk membaca secara lokal:
    - Clone repositori atau download workflow:
      git clone https://github.com/BroBay24/Rag-ilmuHukumPerdata.git
