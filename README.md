@@ -17,6 +17,9 @@ Struktur direktori :
    - Clone repositori atau download workflow:
      git clone https://github.com/BroBay24/Rag-ilmuHukumPerdata.git
 
+## Gambar Workflow
+<img width="924" height="555" alt="Screenshot 2025-11-15 020614" src="https://github.com/user-attachments/assets/774a9628-4a7c-4768-ae78-68e641a4544f" />
+
 ## Kontak
 Jika ada pertanyaan, saran, atau kesalahan, silakan buka issue di repositori atau hubungi pemilik repo instagram bayfr_ 
 ---
