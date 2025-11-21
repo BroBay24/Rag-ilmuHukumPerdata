@@ -9,7 +9,7 @@ Repositori ini dibuat untuk:
 Struktur direktori :
 - `materi/` — ringkasan bab, konsep, dan teori.
 - `kasus/` — studi kasus dan analisis putusan dan pasal.
-- `sumber/` — daftar pustaka, tautan undang-undang, dan artikel.
+- `sumber/` — jdih Mahkamah Agung repo, Peraturango repo dan BpkRi repo
 
 ## Cara menggunakan
 1. Lihat materi langsung di Telegram: buka bot `@pakbos` lalu tanyai tentang hukum perdata
